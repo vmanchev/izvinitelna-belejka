@@ -10,3 +10,8 @@
 
 ### Пример:
 ![Извинителна бележка](https://vmanchev.github.io/izvinitelna-belejka/izvinitelna-belejka.png)
+
+### Wishlist/Road map
+- cli script
+- уеб сайт с формуляр и даунлоуд
+- мобилно приложение
